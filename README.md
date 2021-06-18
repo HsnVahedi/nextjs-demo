@@ -12,6 +12,12 @@ First, clone this repository:
 git clone https://github.com/HsnVahedi/nextjs-demo.git
 ```
 
+After cloning the repository you have to install required packages:
+
+```bash
+npm install
+```
+
 Then you need to build the project:
 
 ```bash
