@@ -2,7 +2,7 @@
 
 This project is currently deployed on vercel. Feel free to check this out:
 
-[`https://nextjs-demo-chi-nine.vercel.app/`](https://github.com/vercel/next.js/tree/canary/packages/create-next-apphttps://nextjs-demo-chi-nine.vercel.app/)
+[`https://nextjs-demo-chi-nine.vercel.app/`](https://nextjs-demo-chi-nine.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
