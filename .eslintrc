@@ -1,3 +1,21 @@
 {
-  "extends": ["next", "next/core-web-vitals"]
+  "extends": ["airbnb", "prettier", "next", "next/core-web-vitals"],
+  "plugins": ["prettier"],
+
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "react/jsx-props-no-spreading": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/self-closing-comp": "off",
+    "arrow-body-style": "off",
+    "import/prefer-default-export": "off"
+  },
+
+  "globals": {
+    "localStorage": true,
+    "document": true,
+    "alert": true,
+    "window": true,
+    "FileReader": true
+  }
 }
