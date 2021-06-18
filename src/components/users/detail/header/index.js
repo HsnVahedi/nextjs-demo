@@ -35,10 +35,10 @@ const Header = ({ user }) => {
             className={classes.avatar}
           />
           <Box marginLeft="160px">
-            <Typography variant="overline" color="textSecondary">
+            {/* <Typography variant="overline" color="textSecondary">
               {user.email}
-            </Typography>
-            <Typography variant="h4" color="textPrimary">
+            </Typography> */}
+            <Typography variant="h5" color="textPrimary">
               {user.name}
             </Typography>
           </Box>
